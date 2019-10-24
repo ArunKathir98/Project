@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600');
+body {
+  background-image: url("");
+}
+.Logo {
+  height: 90px;
+  width: 9%;
+  padding-top: 1%;
+  margin-left: -9px;
+}
+.Header {
+  display: flex;
+  flex-direction: row;
+}
+.Heading {
+  background-color: rgb(0, 119, 181);
+  height: 100px;
+  padding: 0 15px;
+  color: rgb(248, 247, 247);
+  font-size: 55px;
+}
+.Header .Title {
+  width: 80%;
+  padding-left: 30%;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  margin-right: -469px;
+  font-family: 'Open Sans', sans-serif;
+  }
+.Home {
+  font-size: 10px;
+  align:right;
+}
+ul.Home li {
+  display: inline;
+  margin: 0;
+  height: 5px;
+}
+ul.Home {
+  background-color: #a1f0a5;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  width: 100%;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+ul.Home li a {
+  color: rgb(12, 11, 11);
+  padding-right: 0px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0px;
+  display: inline;
+  margin-left: 28px;
+  background-color: #a1f0a5;
+  float: right;
+}
+.ButtonStyle {
+  background-color: #a1f0a5;
+  border-style: none;
+  display: inline;
+  height: 28px;
+  color: rgb(5, 5, 5);
+  padding-left: 7px;
+  padding-top: 1px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.ButtonStyle:active {
+  color: #022e58 ;
+}
+.style {
+  background-color: #14639e;
+  border-style: none;
+  display: inline;
+  height: 28px;
+  color: white;
+  padding-left: 40px;
+  padding-top: 1px;
+  float: left;
+}

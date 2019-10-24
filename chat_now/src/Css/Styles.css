@@ -1,0 +1,132 @@
+.Submit {
+  margin-left: 85px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+.Cancel {
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: white;
+}
+.Data {
+  margin-top: 1%;
+  margin-bottom: 15px;
+  padding-left: 30px;
+  width: 70%;
+}
+.SingupStyle {
+  width: 35%;
+  height: 50%;
+  margin-left: 33%;
+  margin-top: 2%;
+}
+.FormStyle {
+  width: 35%;
+  height: 50%;
+  margin-left: 33%;
+  margin-top: 9%;
+}
+.FormStyleLogin {
+  width: 25%;
+  height: 50%;
+  margin-left: 35%;
+  margin-top: 9%;
+}
+label {
+  margin-left: 35px;
+  color: rgb(20, 99, 158);
+}
+.labelLogin {
+   margin-left: 3px; 
+  color: rgb(20, 99, 158);
+}
+a , a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+.Navigation {
+  margin-left: 75px;
+  margin-top: 10px;
+}
+.ForgotPassword {
+  margin-left: 110px;
+  margin-top: 10px;
+}
+.Error {
+  color: red;
+  padding-left: 20%;
+}
+.OkButton {
+  margin-left:140px;
+}
+.UserImage {
+  margin-left: 4%;
+  margin-top: 3%;
+  width:10%;
+  height:10%;
+}
+.ImageField {
+  margin-top: 2%;
+  margin-left: 32%;
+  width:28%;
+  margin-bottom: 3%;
+}
+.UserStyle {
+  width: 35%;
+  height: 50%;
+  margin-left: 33%;
+
+}
+.UploadButton {
+  margin-top: 1%;
+  margin-left: 38%;
+}
+.Home {
+  font-size: 20px;
+}
+ul.Home li {
+  display: inline;
+  margin: 0;
+  height: 10px;
+}
+ul.Home {
+  background-color: #a1f0a5;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  width: 100%;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+ul.Home li a {
+  color: #FFF;
+  padding-right: 0px;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0px;
+  display: inline;
+  margin-left: 28px;
+  background-color: #a1f0a5;
+}
+.ButtonHome {
+  background-color: #b5babe;
+  border-style:solid;
+  display: inline;
+  height: 35px;
+  width: 80px;
+  color: white;
+}
+.ButtonLogout {
+  background-color: #f53030;
+  border-style: none;
+  display: inline;
+  height: 28px;
+  color: white;
+  padding-left: 80px;
+  margin-left: 400px;
+}

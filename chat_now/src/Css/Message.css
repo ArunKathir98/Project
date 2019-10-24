@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  overflow: hidden;
+ }
+
+* {
+  box-sizing: border-box;
+  padding: 0px; }
+
+.Message {
+  display: flex;
+  flex-direction: row;
+  padding-top: 0;
+  width: 100%;
+  padding-bottom: 0%;
+  margin-right: 0px;
+}
+ .OnlineUsers {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 30%;
+  height: 500px;
+  border: groove 3px rgba(118, 172, 243, 0.9);
+  text-align: center;
+  color: rgb(13, 221, 107);
+  float: left;
+}
+.MessageBox {
+  width: 80%;
+  margin-top: 13px;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+.PrivateMessageBox {
+  width: 50%;
+  margin-top: 13px;
+  padding: 10px;
+  margin-left: 305px;
+  margin-bottom: 50px;
+}
+.ListItem {
+  text-align: left;
+  margin-left: 10px;
+}
+.Time {
+  font-size: 13px;
+}
+.Send {
+  margin-top: -2px;
+  margin-left: 10px;
+  padding: 10px 20px;
+}
+.UserIcon {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  padding-bottom: 5px;
+}
+.Online {
+  width: 11px;
+  height: 11px;
+  margin-right: 2px;
+}
+.Message .Profile {
+  height: 400px;
+  margin: 10px;
+  width: 40%;
+  margin-top: -65px;
+}
+.TextMessage {
+  text-align: left;
+  color: rgba(20, 99, 158, 0.9 );
+  padding: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
+}
+.MyMessage {
+  text-align: right;
+  white-space: wrap;
+  text-overflow: string;
+  width: 100%;
+  color: black;
+  padding: 10px 10px;
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.Message .Container {
+  display : flex;
+  flex-direction: column;
+  width: 100%;
+  padding-top: 10px;
+  margin-left: 10%;
+}
+.Container .MessageList {
+  height: 470px;
+  overflow: auto;
+}
+.Container .ChatBox {
+  height: 10%;
+}
+.closebutton {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  margin-left: 1020px;
+  text-align: center;
+  border-radius: 50%;
+  text-decoration: none;
+  display: inline-block;
+}
+/* .privateUserName{
+  background-color: #399af5;
+  color: white;
+  padding: 10px 200px;
+  text-align: center;
+  
+} */
+

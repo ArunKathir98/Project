@@ -1,0 +1,84 @@
+@media (max-width: 480px) and (max-width: 575.98px) {
+  #FormStyle {
+    width: 88%;
+    margin-left: 15%;
+    margin-top: 25%;
+  }
+  #Submit {
+    margin-left: 40px;
+  }
+  .Navigation {
+    margin-left: 18px;
+  }
+  .Heading {
+    font-size: 40px;
+  }
+  .Header .Title {
+    padding-left: 5%;
+  }
+  .Logo {
+    height: 70px;
+    width: 20%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #FormStyle {
+    width: 88%;
+    margin-left: 15%;
+    margin-top: 25%;
+  }
+  #Submit {
+    margin-left: 40px;
+  }
+  .Navigation {
+    margin-left: 18px;
+  }
+  .Heading {
+    font-size: 35px;
+  }
+  .Header .Title {
+    padding-left: 5%;
+  }
+  .Logo {
+    height: 70px;
+    width: 20%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #FormStyle {
+    width: 35%;
+  }
+  #Submit {
+    margin-left: 40px;
+  }
+  .Navigation {
+    margin-left: 18px;
+  }
+  .Logo {
+    height: 70px;
+    width: 20%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #FormStyle {
+    width: 35%;
+  }
+  #Submit {
+    margin-left: 40px;
+  }
+  .Navigation {
+    margin-left: 18px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #FormStyle {
+    width: 35%;
+    height: 50%;
+    margin-left: 33%;
+    margin-top: 9%;
+  }
+}
